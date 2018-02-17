@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------
                             MEDICAL CLINIC SCHEDULING SERVICE
 ---------------------------------------------------------------------------------------------
-This program is designed to provide patients with medical treatment according to their needs:
+This program is designed to provide patients with medical treatment according to their needs.
 
 Doctors and patients are checked-in to the clinic:
  
@@ -42,9 +42,9 @@ Doctors and patients are checked-in to the clinic:
     -There are 100 exam rooms in the clinic, each with one waiting room
     -Everyone's specialty code is one of the following:
  
-        1. PED - Pediatrics                        7.  PSY - Psychiatry
-        2. GEN - General practice                  8.  NEU - Neurology
-        3. INT - Internal medicine                 9.  ORT - Orthopedics
-        4. CAR - Cardiology                        10. DET - Dermatology
-        5. SUR - Surgeon                           11. OPT - Ophthalmology
-        6. OBS - Obstetrics                        12. ENT - Ear, Nose, and Throat
+    1. PED - Pediatrics                        7.  PSY - Psychiatry
+    2. GEN - General practice                  8.  NEU - Neurology
+    3. INT - Internal medicine                 9.  ORT - Orthopedics
+    4. CAR - Cardiology                        10. DET - Dermatology
+    5. SUR - Surgeon                           11. OPT - Ophthalmology
+    6. OBS - Obstetrics                        12. ENT - Ear, Nose, and Throat

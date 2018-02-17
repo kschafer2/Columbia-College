@@ -36,6 +36,7 @@ Doctors and patients are checked-in to the clinic:
         -Doctor is free to see next patient in waiting room if anyone is waiting
  
  Assumptions:
+ 
     -All patients are seen before they check-out
     -All patients eventually check-out
     -There are 100 exam rooms in the clinic, each with one waiting room
